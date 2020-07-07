@@ -39,7 +39,3 @@ var minTimeToVisitAllPoints = function(points) {
     
     return moves;
 };
-
-var test = [[1,1],[3,4],[-1,0]];
-
-console.log(minTimeToVisitAllPoints(test));
