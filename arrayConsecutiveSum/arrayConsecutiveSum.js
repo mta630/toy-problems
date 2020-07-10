@@ -1,0 +1,3 @@
+function arrayMaxConsecutiveSum(inputArray, k) {
+
+}
